@@ -103,3 +103,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# archivos que no se suben
+tablas/*.txt
